@@ -25,6 +25,7 @@
         "radix":"off",
         "array-callback-return": "off",
         "no-param-reassign": "off",
-        "no-else-return": "off"
+        "no-plusplus": "off",
+        "no-restricted-syntax": "off"
     }
 }
